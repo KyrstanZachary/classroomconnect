@@ -1,0 +1,202 @@
+body{
+		background-image: url('classroomBackground.jpg');
+		background-size: cover;
+		background-repeat:no-repeat;
+		min-height:800px;
+		min-width: 800px;
+		max-height: 1000px;
+		max-width: 1000px;
+}	
+#wrapper{
+	width: 1100px;
+}
+.containerHeaders{
+	font-family: 'Over the Rainbow', cursive;
+	font-size: 35px;
+	color:#FFFFB2;
+	margin-left: 250px;
+	margin-top: -495px;
+}
+.subjectHeaders{
+	font-family: 'Over the Rainbow', cursive;
+	font-size: 35px;
+	color:#FFFFB2;
+	margin-left: 250px;
+	margin-top: -495px;
+}
+#teacherResourceContainer{
+	margin-right: 300px;
+}
+#headerBox{
+	text-align: center;
+	margin-left: 115px;
+	width: 1050px;
+	font-family: 'Over the Rainbow', cursive;
+	font-size: 45px;
+	border-bottom: solid;
+	border-color:#E58778;
+	border-width: 2px;
+}
+#headerBox p{
+	color:#E58F78 ;
+	margin-top:5px;
+	height: 30px;
+}
+#topNavContainer{
+	font-family: 'Over the Rainbow', cursive;
+	margin-left: 20px;
+	border-right: solid;
+	border-color:#E58778;
+	border-width:2px;
+	width: 150px;
+	font-size: 16px;
+}
+
+a:link{
+	color:#FFFFB2;
+	text-decoration: none;	
+}
+a:active{
+	color:#FFFFB2;
+}
+a:visited{ 
+	color: #FFFFB2; 
+}
+a:hover{
+	color:#E58F78;
+}
+#resourcesContainer p{
+	font-size: 23px;
+}
+
+#homeContainer{
+	font-family: 'Shadows Into Light Two', cursive;
+	color: #FFFFB2;
+	width: 700px;
+	margin-left: 415px;
+	margin-top: 45px;
+	height: 310px;
+	text-align: center;
+	font-size: 20px;
+	width: 450px;
+	
+}
+#aboutContainer{
+	font-family: 'Shadows Into Light Two', cursive;
+	color: #FFFFB2;
+	width: 700px;
+	margin-left: 405px;
+	margin-top: -345px;
+	height: 310px;
+}
+#aboutContainer p{
+	text-align: center;
+	font-size: 20px;
+	padding-right: 250px;
+	margin-top: 10px;
+	width: 800px;
+}	
+#aboutContainerHeader p{
+		font-family: 'Over the Rainbow', cursive;
+		font-size: 35px;
+		padding-top: 9px;
+		margin-left: -170px;
+}
+#examplesContainer{
+	font-family: 'Shadows Into Light Two', cursive;
+	color: #FFFFB2;
+	text-align: center;
+	margin-left: 400px;
+	width:500px;
+}	
+#contactContainer{
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 20px;
+	padding-top: 9px;
+	color:#FFFFB2;
+	margin-top: -365px;
+	margin-left: 230px;
+	text-align: center;
+}
+.unitContainer{
+	margin-left: 205px;
+	color:#FFFFB2 ;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 20px;
+	text-align: center;
+}
+.subjectHeader{
+	font-family: 'Over the Rainbow', cursive;
+	color:#FFFFB2;
+	text-align: center;
+	margin-left: 205px;
+	font-size: 24px;
+	padding-bottom: 13px;
+}
+.bottomButton{
+	font-family: 'Over the Rainbow', cursive;
+	color:#FFFFB2;
+	margin-left: 580px;
+	margin-top: 40px;
+	font-size: 20px;
+}
+.backUnitButton{
+	font-family: 'Over the Rainbow', cursive;
+	color:#FFFFB2;
+	margin-left: 580px;
+	margin-top: 450px;
+}
+.bottomResourcesButton{
+	margin-left: -55px;
+}
+.explanation{
+	font-size: 14px;
+	margin-top: -15px;
+}
+
+#studyLinks{
+	font-family: 'Shadows Into Light Two', cursive;
+	color:#FFFFB2;
+	font-size: 23px;
+	margin-top: 100px;
+	text-align: center;
+	margin-left: 200px;
+}
+#studyLinks a{
+	font-size: 18px;
+	font-family: 'Shadows Into Light Two', cursive
+}
+#resourceDisclaimer{
+	font-family: 'Shadows Into Light Two', cursive;
+	color:#FFFFB2;
+	font-size: 19px;
+	text-align: center;
+	width: 500px;
+	margin-left: 700px;
+	margin-top: 100px;
+}
+#teacherResourceContainer{
+	margin-right: 70px;
+}	
+
+#tidbit{
+	font-size: 15px;
+	margin-top: -15px;
+	margin-left: 0px;
+}
+#domainsContainer{
+	margin-top: 10px;
+}
+.unitContainer{
+	margin-top: -35px;
+}
+#resourcesContainer{
+	margin-left: -50px;
+	margin-top: -85px;
+}
+#examplesHeader{
+	font-size: 24px;
+}
+
+
+
